@@ -1,5 +1,5 @@
 {
-    "name": "backend_boilerplate_2023",
+    "name": "backend_boilerplate",
     "version": "1.0.0",
     "description": "",
     "main": "./dist/src/server/server.js",
